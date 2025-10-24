@@ -4,7 +4,7 @@
 ## 👩‍💻 Project By  
 **Name:** Vishnu Vardhan Reddy Dumpa
 **Institution:** Parul University   
-**Project Title:** ##Netflix Dataset Analysis -  Content Trends Analysis for Strategic Recommendations 
+**Project Title:** Netflix Dataset Analysis -  Content Trends Analysis for Strategic Recommendations 
 
 This project dives deep into the **Netflix dataset** containing **7,789 records** and **11 key attributes**, exploring patterns across Movies and TV Shows, genres, and countries.  
 Using **Python-based Data Analytics**, this study uncovers **how Netflix’s content has evolved**, identifies **top-performing genres**, and provides **strategic recommendations** to strengthen Netflix’s content strategy in a competitive OTT landscape.
